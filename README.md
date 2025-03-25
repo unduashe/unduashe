@@ -14,7 +14,7 @@ Soy un desarrollador Full-Stack con formación previa en ASIR. Con experiencia e
 | Proyecto | Descripción | Técnologías aplicadas | Enlace al proyecto | Estado |
 |-----:|---------------|------------------------------|----------------|-------|
 | AllGamesDb | Desarrollo de una plataforma de comparación de videojuegos de PC.| React - Flask - SQLAlchemy - Bootstrap | https://sample-service-name-x77d.onrender.com/ |Activo▶ |
-| Minstant| Aplicación web de mensajería instantánea | Next.js - Prisma - postgreSQL - tailwind | ❌ | En preparación |
+| Minstant| Aplicación web de mensajería instantánea | Next.js - Prisma - postgreSQL - tailwind | ❌ | En preparación🔜 |
 
 
 <!--
